@@ -11,7 +11,7 @@ Este script organiza arquivos em um diretório especificado, movendo-os para pas
 
 ## Pré-requisitos
 
-- Python 3.x
+- Python 3.4 ou superior
 
 ## Como Usar
 
