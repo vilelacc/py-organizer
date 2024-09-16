@@ -1,7 +1,7 @@
 from pathlib import Path
 
 
-def organize(path):
+def organize(path: str) -> None:
     directory = Path(path)
 
     audios_dir = directory / 'audios'
