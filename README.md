@@ -11,17 +11,7 @@ Este script organiza arquivos em um diretório especificado, movendo-os para pas
 
 ## Pré-requisitos
 
-- Python 3.x
-- Biblioteca `pathlib` e `os` (bibliotecas padrão do Python)
-
-## Estrutura do Projeto
-
-```bash
-├── src/
-│   │   
-│   └── main.py
-└── README.md
-```
+- Python 3.4 ou superior
 
 ## Como Usar
 
