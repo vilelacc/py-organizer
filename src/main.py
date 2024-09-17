@@ -38,7 +38,6 @@ def organize(path: str) -> None:
         
         file.rename(new_path)
 
-
 if __name__ == '__main__':
     path = input(r'PATH: ')
     organize(path)
