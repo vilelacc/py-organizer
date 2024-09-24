@@ -27,4 +27,4 @@ python main.py
 
 ## Personalização
 
-Você pode personalizar as extensões de arquivos organizados editando as listas ``AUDIOS_EXT``, ``VIDEOS_EXT``, ``IMAGES_EXT``, e ``DOCUMENTS_EXT`` no arquivo ``main.py``.
+Você pode personalizar as extensões de arquivos organizados editando as listas ``AUDIOS_EXT``, ``VIDEOS_EXT``, ``IMAGES_EXT``, e ``DOCUMENTS_EXT`` no arquivo ``extension.py``.
